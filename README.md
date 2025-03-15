@@ -1,4 +1,4 @@
-# CHETGPT: This is an early version when i try to build the app in VS code using Kivy. Sadly, it's so slow i have to move to Android Studio and use Kotlin. The app is up and running for my church community. I only need to add the location tracking now.
+# CHETGPT: This is an early version when i try to build the app in VS code using Kivy. Sadly, it's so slow i have to move to Android Studio and use Kotlin. The app is up and running for my church community. I only need to add the location tracking now. <--- It's a joke
 
 # BY CHATGPT
 
